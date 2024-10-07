@@ -6,7 +6,7 @@ Vamos a realizar dos ejercicios con un enfoque de testing manual.
 
 Zara Online ha implementado una nueva política por lo que si gastas *1000€ o más* en una compra te calcula un 10% sobre el valor total. Implementa la función _calculateDiscount_
 
-![](https://oscarm.tinytake.com/media/16bfad0?filename=1728292684764_TinyTake07-10-2024-11-18-06_638638894884055784.png&sub_type=thumbnail_preview&type=attachment&width=1197&height=295)
+![](https://oscarm.tinytake.com/media/16bfa8d?filename=1728291957607_TinyTake07-10-2024-11-06-00_638638887617288914.png&sub_type=thumbnail_preview&type=attachment&width=1198&height=115)
 
 Cuando te funcione respondete a las siguientes preguntas:
 
